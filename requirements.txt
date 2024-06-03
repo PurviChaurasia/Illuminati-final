@@ -1,5 +1,7 @@
 requests
 ollama
-BeautifulSoup
+bs4
 re
 json
+streamlit_markmap
+streamlit
